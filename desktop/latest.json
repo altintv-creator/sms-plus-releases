@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "",
+  "pub_date": "2026-10-03T13:42:21.714Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdTh2MTB6M21Zai9Kb3ZVQjE0ZVNNVkJjSld5ZEs5UVNqRmlwOEpLbGtnVmpiZVBTc0NlcmFNUklxRDZxd3lNT21nYjhsOTV4SGhqS2FlajFSazhPa2RpSERaUGh4WUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM0OTM2CWZpbGU6U01TK18xLjAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjAKZ3hwM2U3a05COHd5YzVwVmNKYmlkOUJveWl6STU3SEpmRkIzUDlEd0ZBeTlIcS9yRXpLQTFCUUFSeDN2VGMxbGJER0Z6TVF3ZFFvdWlEZk05QUE4QVE9PQo=",
+      "url": "https://github.com/altintv-creator/sms-plus-releases/releases/download/desktop-v1.0.0/SMSPlus-1.0.0-setup.exe"
+    }
+  }
+}
